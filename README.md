@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate MEAN/MERN stack developer with a 
 ## Get in Touch 📬
 
 <a href="https://github.com/Nikhilsaini11"  target="_blank"><img src="https://github.com/Nikhilsaini11/Nikhilsaini11/blob/main/github.png" alt="GitHub" width="35"></a>
-<a href="https://www.linkedin.com/in/nikhilsaini1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://github.com/Nikhilsaini11/Nikhilsaini11/blob/main/linkedin.png" alt="LinkedIn" width="35" style="margin-right: 8px;"></a>
+<a href="https://www.linkedin.com/in/nikhilsaini1" target="_blank"><img src="https://github.com/Nikhilsaini11/Nikhilsaini11/blob/main/linkedin.png" alt="LinkedIn" width="35" style="margin-right: 8px;"></a>
 <a href="mailto:nikhilsaini11111@gmail.com" target="_blank"><img src="https://github.com/Nikhilsaini11/Nikhilsaini11/blob/main/gmail.png" alt="Email" width="35" style="margin-right: 8px;"></a>
 
 
